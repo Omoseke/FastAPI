@@ -1,5 +1,5 @@
 from connection import db_session
-from model.sql import Todo
+from models.sql import Todo
 
 #create a todo
 
